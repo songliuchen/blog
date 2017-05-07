@@ -17,7 +17,7 @@
  - 创建数据库blog
  - 导入config文件夹下blog.sql 文件
  - 修改server/database/dbhelper.js 文件中数据库连接配置
- ### 客户端启动
+ ### 服务端端启动
  -  通过node server.js 启动服务端
  
 # 前后端互联配置
