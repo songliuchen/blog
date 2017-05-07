@@ -3,16 +3,22 @@
   ```sh
   $ cd source/trunk/client
   $ npm install
+  $ npm run dev
   ```
 对element-ui 控件做了局部修改，满足博客原型设计需求
  - 拷贝config 文件夹下 fonts文件夹和index.css文件到 node_modules\element-ui\lib\theme-default下并替换
  -  拷贝config 文件夹下element-ui.common.js文件到 node_modules\element-ui\lib\下并替换
-
+### 客户端启动
+ -  通过npm run dev 启动前端内容
+ -  通过http://localhost:8080 查看效果
+ 
 # 服务端配置
  - 安装mysql 数据库
  - 创建数据库blog
  - 导入config文件夹下blog.sql 文件
  - 修改server/database/dbhelper.js 文件中数据库连接配置
+ ### 客户端启动
+ -  通过node server.js 启动服务端
  
 # 前后端互联配置
  - 修改本机host文件配置，添加127.0.0.1 api.song.com 对应关系配置
