@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客系统",
+  "dependencies": {
+	  "mysql":"latest",
+      "forever":"latest"
+  },
+  "scripts": {
+	    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "songliuchen(宋刘陈)",
+  "license": "ISC"
+}

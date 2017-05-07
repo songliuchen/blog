@@ -1,0 +1,22 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	min-width: 1024px;
+	-webkit-user-select: none;
+}
+a
+{
+	text-decoration:none;
+}
+li
+{
+	list-style: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+ul
+{
+	padding-left: 0;
+}

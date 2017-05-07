@@ -1,0 +1,2 @@
+<input id="&{id}_name" type="text" value="" width = "50px"/>  
+<input id="&{id}_attributequery" type="button" value="查询" onclick="attributequery()"/>  

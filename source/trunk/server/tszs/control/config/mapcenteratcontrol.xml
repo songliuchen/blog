@@ -1,0 +1,17 @@
+<table>
+    <tr>
+        <td>
+            X坐标：<input id = &{id}_x type = "text" value = "">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Y坐标：<input id = &{id}_y type = "text" value = "">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input id = &{id}_location type = "button" value = "定位">
+        </td>
+    </tr>
+</table>
