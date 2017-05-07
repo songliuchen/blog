@@ -11,7 +11,7 @@
 					<div class="title">
 						关于宋爷
 					</div>
-					<HR style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
+					<hr style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
 					<div style="margin-top: 20px;">
 						<div class="aboutsong-logo"><img style="width:100%;" src="../../assets/img/aboutlogo.png"></div>
 						<div class="aboutsong-title">
@@ -24,7 +24,7 @@
 					<div class="title">
 						Professional Skills
 					</div>
-					<HR style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
+					<hr style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
 					<div style="margin-top: 20px;">
 						<div style="display:inline-block;vertical-align: top;width:20%;padding-right: 3%;"><img src="../../assets/img/timeline-psd.png"></div>
 						<div style="margin-bottom: 20px;margin-top: 5px;">
@@ -36,7 +36,7 @@
 					<div class="title">
 						关于网站
 					</div>
-					<HR style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
+					<hr style="filter: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 size=1>
 					<div class="siteinfo" style="margin-top: 20px;">
 						<div><div class="sitename">宋爷 de Life</div></div>
 						<div>
@@ -52,7 +52,7 @@
 					<div class="title">
 						contact
 					</div>
-					<HR style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
+					<hr style="FILTER: progid:DXImageTransform.Microsoft.Glow(color=#987cb9,strength=10)" width="100%" color=#987cb9 SIZE=1>
 					<div style="margin-top: 20px;text-align: center;">
 						<img style="width:45%; max-width:150px;margin-right: 2%;" src="../../assets/img/u94.png">
 						<img style="width:45%;max-width:150px;" src="../../assets/img/u94.png">

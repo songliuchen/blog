@@ -2,7 +2,7 @@
   <div class="article">
 	  <topnav class="article-topnav"></topnav>
 	  <div class="container">
-			<router-view></route-view>
+			<router-view />
 		</div>
 	  <bottomnav class="bottom"></bottomnav>
   </div>

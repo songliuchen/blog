@@ -11,7 +11,7 @@
 					<div v-else>
 						<span>
 							<label>名称：</label>
-							<el-input size='small' v-model="scope.row.caption" >
+							<el-input size='small' v-model="scope.row.caption"></el-input>
 						</span>
 						<span>
 							<label>链接：</label>
@@ -37,7 +37,7 @@
 			<div v-else>
 				<span>
 					<label>名称：</label>
-					<el-input size='small' v-model="caption" >
+					<el-input size='small' v-model="caption"></el-input>
 				</span>
 				<span>
 					<label>链接：</label>

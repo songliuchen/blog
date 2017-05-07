@@ -6,7 +6,7 @@
   			</div>
 			<div class="index-center-title">
 			    <h2>宋爷 de Life</h2>
-				<h3>学而不思则罔，思而不学则殆<h3>
+				<h3>学而不思则罔，思而不学则殆</h3>
 			</div>
 		</div>
 		<div v-for="item in items">

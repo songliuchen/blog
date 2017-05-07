@@ -10,7 +10,7 @@
 				    </el-option>
 			  	</el-select>
 		 	</span>
-		 	<span><el-input  v-model="data.caption" style="width:500px"></span>
+		 	<span><el-input  v-model="data.caption" style="width:500px"></el-input></span>
 		 	<br  />
 		 	<span>
 		 		<label>属性:</label>
@@ -22,8 +22,6 @@
 		 		<label style="vertical-align: middle;">禁止评论</label>
 		 		<input type="checkbox" style="height:20px;width:20px;line-height:20px;vertical-align: middle;" :checked="data.secret" />
 		 		<label style="vertical-align: middle;">私密文章</label> 
-		 		<!--<input type="checkbox" style="height:20px;width:20px;line-height:20px;vertical-align: middle;" :checked="tacback" /> 
-		 		<label style="vertical-align: middle;">保存图片到本地</label> -->
 	 		</span>
 	 		<br  />
 	 		<div>

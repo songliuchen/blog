@@ -2,7 +2,7 @@
 	<div class="login">
 		<span>
 			<p>用户名：</p>
-			<el-input v-model="data.username" >
+			<el-input v-model="data.username" ></el-input>
 		</span>
 		<br />
 		<span>

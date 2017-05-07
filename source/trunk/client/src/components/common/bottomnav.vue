@@ -12,7 +12,7 @@
 				友情链接
 				<br>
 				<ul>
-					<li v-for="item in data.linklist"><a target="_blank" :href="item.addresse">{{ item.caption }}</li>
+					<li v-for="item in data.linklist"><a target="_blank" :href="item.addresse">{{ item.caption }}</a></li>
 				</ul>
 			</div>
 			<div class="bottomnav-singleinfo-qrcode">

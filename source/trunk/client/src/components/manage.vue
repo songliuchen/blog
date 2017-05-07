@@ -3,7 +3,7 @@
 	  <topnav class="topnav"></topnav>
 	  <leftnav class="leftnav"></leftnav>
 	  <div class="rightcontainer">
-			<router-view></route-view>
+			<router-view />
 		</div>
 	  <bottomnav class="bottom"></bottomnav>
   </div>

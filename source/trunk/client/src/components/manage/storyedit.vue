@@ -10,7 +10,7 @@
 				    </el-option>
 			  	</el-select>
 		 	</span>
-		<span><el-input  v-model="data.caption" style="width:500px"></span>
+		<span><el-input  v-model="data.caption" style="width:500px"></el-input></span>
 		<br />
 		<span>
 		 		<label>属性:</label>
