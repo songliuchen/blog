@@ -24,8 +24,8 @@
 ```
 
 截图效果：
-![截图1](https://github.com/songliuchen/blog/tree/master/source/trunk/client/src/assets/img/welcome.png)  
-![截图2](https://github.com/songliuchen/blog/tree/master/source/trunk/client/src/assets/img/articles.png)
-![截图3](https://github.com/songliuchen/blog/tree/master/source/trunk/client/src/assets/img/manage.png)
+![截图1](https://github.com/songliuchen/blog/blob/master/source/trunk/client/src/assets/img/welcome.png)  
+![截图2](https://github.com/songliuchen/blog/blob/master/source/trunk/client/src/assets/img/articles.png)
+![截图3](https://github.com/songliuchen/blog/blob/master/source/trunk/client/src/assets/img/manage.png)
 
 实际效果展示地址：[宋爷的网站(www.songliuchen.com)](http://www.songliuchen.com)
